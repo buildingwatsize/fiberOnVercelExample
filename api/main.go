@@ -1,4 +1,4 @@
-package fiberOnVercelExample
+package main
 
 import (
 	"fmt"
